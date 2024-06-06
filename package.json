@@ -1,0 +1,14 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "create a todolist",
+  "main": "index.js",
+  "scripts": {
+    "test": "tailwindcss -i ./src/style.css -o ./src/output.css --watch"
+  },
+  "author": "arsalan",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.3"
+  }
+}
